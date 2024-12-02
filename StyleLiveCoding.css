@@ -1,0 +1,120 @@
+.header-custom{
+    height: 80vh;
+    background-image: url(.//media-/bg1.jpg);
+    background-position: top;
+    background-size: cover;
+    
+}
+
+.header-custom-1 {
+    width: 14vh;
+    height: 45px;
+}
+
+.text-align {
+    text-align: start;
+}
+
+
+.font-custom {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.font-custom-1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.icona {
+    font-size: 40px;
+}
+
+
+.custom4 {
+    border-radius: 10vh;
+}
+
+
+
+.gamearcade {
+    width: 400px ;
+    margin-top: 10vh;
+}
+
+.section-custom{
+    height: 70vh;
+    background-color: rgb(17, 17, 54);
+    background-size: cover;
+}
+
+.icona-game {
+    height: 45vh;
+}
+
+.paragrafo-1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    
+}
+
+.section-custom-2 {
+    height: 80vh;
+    background-image: url(./media-/bg-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box {
+    border: 2px solid #230e42;
+    border-radius: 10px;
+    background-color: #230e42;
+    width: 70%;
+    height: 70vh;
+    margin: 25%;
+    margin-left: 55vh;
+    color: #230e42;
+}
+
+.font-title-section-2 {
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+.box-name {
+    border: none;
+    background-color: #230e42;
+    border-bottom: 1px solid red;
+    color: white;
+    
+}
+
+.box-number {
+    border: none;
+    background-color:#230e42;
+    border-bottom: 1px solid red;
+}
+
+
+.section-custom-3 {
+    height: 60vh;
+    background-color: rgb(17, 17, 54);
+    background-size: cover;
+}
+
+.photo-size {
+    height: 45vh;
+}
+
+.section-custom-4 {
+    height: 70vh;
+    background-image: url(./media-/bg-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.privacy-policy {
+    background-color: rgba(14, 14, 14, 0.644);
+    height: 20px;
+}
